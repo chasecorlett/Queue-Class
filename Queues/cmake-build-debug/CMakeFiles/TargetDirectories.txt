@@ -1,0 +1,3 @@
+C:/Users/Chase/Documents/Sum 21/CSCI262/Code/Assignments/Queues/cmake-build-debug/CMakeFiles/Queues.dir
+C:/Users/Chase/Documents/Sum 21/CSCI262/Code/Assignments/Queues/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chase/Documents/Sum 21/CSCI262/Code/Assignments/Queues/cmake-build-debug/CMakeFiles/rebuild_cache.dir
